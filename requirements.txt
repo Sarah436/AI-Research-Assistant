@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+numpy==1.26.4
+pandas
+scikit-learn
+sentence-transformers==2.2.2
+transformers==4.36.2
+torch==2.1.2
+chromadb
+pysqlite3-binary
+openai==2.48.0
+huggingface_hub==0.20.3

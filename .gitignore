@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+data/uploaded_pdfs/
+data/chroma_db/
+
+evaluation/evaluation_results.json
+
+.vscode/

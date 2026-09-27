@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What does the research report about maximum readable distance varies?",
+        "type": "content_specific",
+        "document": "crack detection.pdf",
+        "reference_context": "The maximum readable distance varies depending on material thickness, although all materials allow tags to be read up to a distance of RFID-tag Printed sheet Crack 送受信アンテナ 亀裂センサー （RFIDタグ) 測定用PC スキャナー ID：126324 Switch：On display Antenna Scanner Computer Crack detection sensor The 14 th World Conference on Earthquake Engineering October 12-17, 2008, Beijing, China 100-110 cm."
+    },
+    {
+        "question": "How are crack detection sensor radio discussed in the research?",
+        "type": "content_specific",
+        "document": "crack detection.pdf",
+        "reference_context": "In this study, crack detection sensor using Radio Frequency IDentification (RFID) tag and electrically conductive paint and printed sheets is proposed because of its low costs and easiness The 14 th World Conference on Earthquake Engineering October 12-17, 2008, Beijing, China of the measurement."
+    },
+    {
+        "question": "What role do reading penetration tests crack play in the research?",
+        "type": "content_specific",
+        "document": "crack detection.pdf",
+        "reference_context": "Tag Reading Penetration Tests The crack detection system described in Section 2.2 assumes that detection sheets (electrically conductive printed sheets) and RFID tags installed at the end of steel beams and in other parts of a building are read from outside."
+    },
+    {
+        "question": "What findings are reported about target load around crack?",
+        "type": "content_specific",
+        "document": "crack detection.pdf",
+        "reference_context": "When the target load was around 26 or 27 kN and the crack width was around 0.05-0.07 mm, some sheets fractured while others did not, indicating the tendency that wire breaking occurred easily in a 0.1-mm-thick printed sheet."
+    },
+    {
+        "question": "What is the significance of conclusions below fatigue tests in the research?",
+        "type": "content_specific",
+        "document": "crack detection.pdf",
+        "reference_context": "Conclusions of this study are shown in the below: 1) By fatigue tests of steel specimens, it is proven that printed sheet made by polycarbonate can detect crack whose width is 0.08 mm or more."
+    },
+    {
+        "question": "What does the research report about algorithm crack detection fine-tuned?",
+        "type": "content_specific",
+        "document": "Crack Deyection Paintings.pdf",
+        "reference_context": "Algorithm 1: Crack Detection using Fine-Tuned InceptionV3 Input: Labeled image dataset with cracked and non-cracked classes Output: Trained a deep learning model for binary classification 1) Load and preprocess dataset (resize, normalize)."
+    },
+    {
+        "question": "How are guoshao yuanzhuo huajie jinfu discussed in the research?",
+        "type": "content_specific",
+        "document": "Crack Deyection Paintings.pdf",
+        "reference_context": "[14] Guoshao Su, Yuanzhuo Qin, Huajie Xu, Jinfu Liang, \"Automatic real-time crack detection using lightweight deep learning models”, Engineering Applications of Artificial Intelligence,Volume 138, Part A, 2024, 109340, https://doi.org/10.1016/j.engappai.2024.109340."
+    },
+    {
+        "question": "What role do address evident deep learning-based play in the research?",
+        "type": "content_specific",
+        "document": "Crack Deyection Paintings.pdf",
+        "reference_context": "To address the evident research gap in deep learning-based painting crack detection, this study proposes a comprehensive pipeline in- volving dataset creation, augmentation, pre-processing, model comparison, and fine-tuning."
+    },
+    {
+        "question": "What findings are reported about despite advancements application deep?",
+        "type": "content_specific",
+        "document": "Crack Deyection Paintings.pdf",
+        "reference_context": "Despite these advancements, the application of deep learning to crack detection in painting surfaces remains relatively unexplored, with most existing literature focused on structural damage in roads and buildings rather than delicate artistic media [4], [5]."
+    },
+    {
+        "question": "What is the significance of process time-consuming labor-intensive often in the research?",
+        "type": "content_specific",
+        "document": "Crack Deyection Paintings.pdf",
+        "reference_context": "This process is time-consuming, labor-intensive, and often subjective, leading to inconsistent assessments, particularly for micro-cracks invisible to the naked eye With the rise of artificial intelligence and deep learning, automated methods for image-based defect detection have shown promising potential in various industries, including civil engineering, medicine, and manufacturing."
+    },
+    {
+        "question": "What does the research report about explores integration deep learning?",
+        "type": "content_specific",
+        "document": "uav_crack_detection.pdf",
+        "reference_context": "This research explores the integration of deep learning algorithms, including CNN, RCNN, Fast RCNN, Faster RCNN, and YOLO, to enhance the accuracy and efficiency of UAV-based crack detection systems."
+    },
+    {
+        "question": "How are algorithm ability process images discussed in the research?",
+        "type": "content_specific",
+        "document": "uav_crack_detection.pdf",
+        "reference_context": "The YOLOv3 algorithm's ability to process images in real-time, coupled with its accuracy in crack detection, provided a valuable tool for bridge inspectors to detect cracks promptly and accurately, facilitating timely maintenance and ensuring structural integrity."
+    },
+    {
+        "question": "What role do classification report crack detection play in the research?",
+        "type": "content_specific",
+        "document": "uav_crack_detection.pdf",
+        "reference_context": "The classification report for crack detection using CNN and RCNN provides a comprehensive summary of the model's performance metrics, including recall, precision, and F1 score."
+    },
+    {
+        "question": "What findings are reported about rcnn recall precision score?",
+        "type": "content_specific",
+        "document": "uav_crack_detection.pdf",
+        "reference_context": "RCNN Recall Precision F1-score Existing 0.89 0.83 0.86 Proposed 1.00 0.98 0.99 The enhanced recall, precision, and F1 score values in Table 5(a) and Table 5(b) signify substantial improvements in the proposed model over existing results, showcasing its heightened efficacy in safety- critical applications like crack detection."
+    },
+    {
+        "question": "What is the significance of evaluation metrics outline comprehensive in the research?",
+        "type": "content_specific",
+        "document": "uav_crack_detection.pdf",
+        "reference_context": "Evaluation Metrics In this section, we outline a comprehensive evaluation of the deep learning models employed in our paper, focusing on crack detection using Convolutional Neural Networks (CNN) and Recurrent Convolutional Neural Networks (RCNN)."
+    }
+]
