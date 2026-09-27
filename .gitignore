@@ -10,3 +10,5 @@ data/chroma_db/
 evaluation/evaluation_results.json
 
 .vscode/
+data/*.pdf
+data/*.npy
